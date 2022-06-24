@@ -1,0 +1,31 @@
+body {
+  background-color: rosybrown;
+  color: azure;
+  width: 500px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+button {
+  padding: 5px 20px;
+  background-color: rgb(20, 135, 155);
+  color: antiquewhite;
+  font: caption;
+  border-style: none;
+}
+
+input {
+  height: 26px;
+}
+
+.sentense {
+  color: rgb(140, 235, 250);
+  font-size: large;
+  font-family: cursive;
+}
+
+#result-area{
+  font-family: 'Kaisei Opti', serif;
+  color: rgb(232, 243, 82);
+  font-size: larger;
+}
